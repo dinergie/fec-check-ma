@@ -1,7 +1,7 @@
 # Part of FEC Check (Morocco). See LICENSE file for full copyright and licensing details.
 {
     'name': 'FEC Check (Morocco)',
-    'version': '18.0.1.0.0',
+    'version': '19.0.1.0.0',
     'summary': 'FEC check for Morocco: find the anomalies of CGNC accounting data against CNC opinion no. 24',
     'category': 'Accounting/Localizations',
     'author': 'Cabinet EL JOUAIDI',
